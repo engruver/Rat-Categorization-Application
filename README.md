@@ -1,2 +1,2 @@
 # Rat-Categorization-Application
-Application for use in rat categorization experiments
+Application for use in rat categorization experimentation
